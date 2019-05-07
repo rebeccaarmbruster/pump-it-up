@@ -1,0 +1,3 @@
+date|timestamp|algorithm|author|params|classification_rate|filename|processing_time|notes
+2019-05-07|11:53:32|Gradient Boosting Classifier|Rebecca|{'n_estimators': 500, 'max_depth': 6, 'learning_rate': 0.1}|0.8017039077645138|20190507-115332_Gradient-Boosting-Classifier.csv|223|Impute missing values by mean
+2019-05-07|12:25:27|Gradient Boosting Classifier|Rebecca|{'n_estimators': 500, 'max_depth': 6, 'learning_rate': 0.1}|0.8048158351188655|20190507-122527_Gradient-Boosting-Classifier.csv|205|Impute missing values by mean
